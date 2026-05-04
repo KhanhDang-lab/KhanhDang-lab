@@ -29,7 +29,6 @@ My goal is to become an embedded engineer who can build systems that are not onl
 
 ---
 
-```md
 ## Technical Focus
 
 | Area | What I focus on |
