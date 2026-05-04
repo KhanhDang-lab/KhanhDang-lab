@@ -29,14 +29,14 @@ My goal is to become an embedded engineer who can build systems that are not onl
 
 ---
 
+```md
 ## Technical Focus
 
-```txt
-Embedded Systems
-IoT Applications
-Realtime Monitoring
-Smart Home Automation
-Sensor Integration
-Device Control
-Backend API Development
-AI-assisted Automation
+| Area | What I focus on |
+|---|---|
+| **Embedded Systems** | Microcontroller programming, device control, sensor integration |
+| **IoT Applications** | ESP32-based monitoring and control systems |
+| **Realtime Systems** | Firebase Realtime Database, live dashboard synchronization |
+| **Smart Home Automation** | Rule-based automation, alert handling, device status control |
+| **Backend Development** | FastAPI services, API design, data processing |
+| **AI-assisted Automation** | Local AI assistant for smart device interaction |
